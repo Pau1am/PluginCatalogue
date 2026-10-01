@@ -1,0 +1,261 @@
+{
+  "NOTICE": "Not public API, DO NOT use this file",
+  "release_pages": {
+    "1": {
+      "etag": "\"59a7c3dce82241001fdab9d071d8aa1ad3d3d544ca8e2816a351d91ee70570e6\"",
+      "data": "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",
+      "empty": false
+    },
+    "2": {
+      "etag": "\"ef0b200f23451d4ed211633c01a706cfe75afc0b3512842a3194480bf1ab7599\"",
+      "data": "H4sIALSEg2oC/4uOBQApu0wNAgAAAA==",
+      "empty": true
+    }
+  },
+  "asset_data": {
+    "179616669": {
+      "meta": {
+        "schema_version": 4,
+        "id": "mirror_server_reforged",
+        "name": "MirrorServerReforged",
+        "version": "1.0.8-alpha",
+        "link": "https://github.com/EMUnion/MirrorServerReforged",
+        "authors": [
+          "GamerNoTitle"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.6.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "A reforged version of [MCDR-Mirror-Server](https://github.com/GamerNoTitle/MCDR-Mirror-Server), which is a plugin for MCDR-Reforged 2.6.0+.",
+          "zh_cn": "[MCDR-Mirror-Server](https://github.com/GamerNoTitle/MCDR-Mirror-Server)的重置版，适用于MCDR 2.6.0+的镜像服插件"
+        }
+      },
+      "size": 9324,
+      "hash_md5": "fd442af026f7130951d0095c4306b42d",
+      "hash_sha256": "5803c23df8cdf3a22d7cd8310c1e772b282ffff97a5fd31f9b52eb847b7e0bc6",
+      "ttl": 100
+    },
+    "96885316": {
+      "meta": {
+        "schema_version": 4,
+        "id": "mirror_server_reforged",
+        "name": "MirrorServerReforged",
+        "version": "1.0.7",
+        "link": "https://github.com/EMUnion/MirrorServerReforged",
+        "authors": [
+          "GamerNoTitle"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.6.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "A reforged version of [MCDR-Mirror-Server](https://github.com/GamerNoTitle/MCDR-Mirror-Server), which is a plugin for MCDR-Reforged 2.0+.",
+          "zh_cn": "[MCDR-Mirror-Server](https://github.com/GamerNoTitle/MCDR-Mirror-Server)的重置版，适用于MCDR 2.0+的镜像服插件"
+        }
+      },
+      "size": 15971,
+      "hash_md5": "fc75ad1354da896da5b127282283eb4e",
+      "hash_sha256": "fb9bb5bd7bea850705313bcb2880b7e3be9327cf14621f2ef0d34489d232f1c4",
+      "ttl": 100
+    },
+    "96766977": {
+      "meta": {
+        "schema_version": 4,
+        "id": "mirror_server_reforged",
+        "name": "MirrorServerReforged",
+        "version": "1.0.6",
+        "link": "https://github.com/EMUnion/MirrorServerReforged",
+        "authors": [
+          "GamerNoTitle"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.6.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "A reforged version of [MCDR-Mirror-Server](https://github.com/GamerNoTitle/MCDR-Mirror-Server), which is a plugin for MCDR-Reforged 2.0+.",
+          "zh_cn": "[MCDR-Mirror-Server](https://github.com/GamerNoTitle/MCDR-Mirror-Server)的重置版，适用于MCDR 2.0+的镜像服插件"
+        }
+      },
+      "size": 15848,
+      "hash_md5": "1fe957d8041739294b9542e078c8422c",
+      "hash_sha256": "e939fa3a1cafa6f954f2ae930131488a8343a9e83f34ecb1fb389753b49a5e9e",
+      "ttl": 100
+    },
+    "94390597": {
+      "meta": {
+        "schema_version": 4,
+        "id": "mirror_server_reforged",
+        "name": "MirrorServerReforged",
+        "version": "1.0.5",
+        "link": "https://github.com/EMUnion/MirrorServerReforged",
+        "authors": [
+          "GamerNoTitle"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.6.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "A reforged version of [MCDR-Mirror-Server](https://github.com/GamerNoTitle/MCDR-Mirror-Server), which is a plugin for MCDR-Reforged 2.0+.",
+          "zh_cn": "[MCDR-Mirror-Server](https://github.com/GamerNoTitle/MCDR-Mirror-Server)的重置版，适用于MCDR 2.0+的镜像服插件"
+        }
+      },
+      "size": 8818,
+      "hash_md5": "742aa30d2676f5a5f3fd88fc28fee6ef",
+      "hash_sha256": "905ae788158641af48ec401cc0351d4d291c9933098548180666e0efa01bf1bd",
+      "ttl": 100
+    },
+    "91446475": {
+      "meta": {
+        "schema_version": 4,
+        "id": "mirror_server_reforged",
+        "name": "MirrorServerReforged",
+        "version": "1.0.4",
+        "link": "https://github.com/EMUnion/MirrorServerReforged",
+        "authors": [
+          "GamerNoTitle"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.6.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "A reforged version of [MCDR-Mirror-Server](https://github.com/GamerNoTitle/MCDR-Mirror-Server), which is a plugin for MCDR-Reforged 2.0+.",
+          "zh_cn": "[MCDR-Mirror-Server](https://github.com/GamerNoTitle/MCDR-Mirror-Server)的重置版，适用于MCDR 2.0+的镜像服插件"
+        }
+      },
+      "size": 8651,
+      "hash_md5": "a52ff6882d63cb64d39c3b0fd3a8316f",
+      "hash_sha256": "2276540c2182bc83436179ccfe5d254a1c16f45f68b84df5d25a445ba4fa659f",
+      "ttl": 100
+    },
+    "56508875": {
+      "meta": {
+        "schema_version": 4,
+        "id": "mirror_server_reforged",
+        "name": "MirrorServerReforged",
+        "version": "1.0.3",
+        "link": "https://github.com/EMUnion/MirrorServerReforged",
+        "authors": [
+          "GamerNoTitle"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.0.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "A reforged version of [MCDR-Mirror-Server](https://github.com/GamerNoTitle/MCDR-Mirror-Server), which is a plugin for MCDR-Reforged 2.0+.",
+          "zh_cn": "[MCDR-Mirror-Server](https://github.com/GamerNoTitle/MCDR-Mirror-Server)的重置版，适用于MCDR 2.0+的镜像服插件"
+        }
+      },
+      "size": 8422,
+      "hash_md5": "0ac80a218b5df5fcc4c3288415013873",
+      "hash_sha256": "b3b3f0fbc2f9ce126e93cc7835e0b309a0c140278d46bca600051900842ffd29",
+      "ttl": 100
+    },
+    "55911780": {
+      "meta": {
+        "schema_version": 4,
+        "id": "mirror_server_reforged",
+        "name": "MirrorServerReforged",
+        "version": "1.0.2",
+        "link": "https://github.com/EMUnion/MirrorServerReforged",
+        "authors": [
+          "GamerNoTitle"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.0.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "A reforged version of [MCDR-Mirror-Server](https://github.com/GamerNoTitle/MCDR-Mirror-Server), which is a plugin for MCDR-Reforged 2.0+.",
+          "zh_cn": "[MCDR-Mirror-Server](https://github.com/GamerNoTitle/MCDR-Mirror-Server)的重置版，适用于MCDR 2.0+的镜像服插件"
+        }
+      },
+      "size": 8354,
+      "hash_md5": "4587ac14198d4bd8702b76300b667d1d",
+      "hash_sha256": "bc5da4b838d07047bc5b8ab6f274d9596e9d638faebabdde6e5c49b5028fd2ee",
+      "ttl": 100
+    },
+    "54862521": {
+      "meta": {
+        "schema_version": 4,
+        "id": "mirror_server_reforged",
+        "name": "MirrorServerReforged",
+        "version": "1.0.1",
+        "link": "https://github.com/EMUnion/MirrorServerReforged",
+        "authors": [
+          "GamerNoTitle"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.0.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "A reforged version of [MCDR-Mirror-Server](https://github.com/GamerNoTitle/MCDR-Mirror-Server), which is a plugin for MCDR-Reforged 2.0+.",
+          "zh_cn": "[MCDR-Mirror-Server](https://github.com/GamerNoTitle/MCDR-Mirror-Server)的重置版，适用于MCDR 2.0+的镜像服插件"
+        }
+      },
+      "size": 8323,
+      "hash_md5": "145e236b89c045b6d82d3ce6ba1b653c",
+      "hash_sha256": "3db45fd57d3383eb856adaa732a6887450a4f5abc44de8e8af018729a7e070d5",
+      "ttl": 100
+    },
+    "54798107": {
+      "meta": {
+        "schema_version": 4,
+        "id": "mirror_server_reforged",
+        "name": "MirrorServerReforged",
+        "version": "1.0.0",
+        "link": "https://github.com/EMUnion/MirrorServerReforged",
+        "authors": [
+          "GamerNoTitle"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.0.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "A reforged version of [MCDR-Mirror-Server](https://github.com/GamerNoTitle/MCDR-Mirror-Server), which is a plugin for MCDR-Reforged 2.0+.",
+          "zh_cn": "[MCDR-Mirror-Server](https://github.com/GamerNoTitle/MCDR-Mirror-Server)的重置版，适用于MCDR 2.0+的镜像服插件"
+        }
+      },
+      "size": 8583,
+      "hash_md5": "3dae6754e1d30b9e0ffddaf17962709b",
+      "hash_sha256": "0e31a50ebfba57a74f766d3884ff4de22dae463d1edddab1f9eff587a33ed38e",
+      "ttl": 100
+    },
+    "527856297": {
+      "meta": {
+        "schema_version": 4,
+        "id": "mirror_server_reforged",
+        "name": "MirrorServerReforged",
+        "version": "1.0.8",
+        "link": "https://github.com/EMUnion/MirrorServerReforged",
+        "authors": [
+          "GamerNoTitle"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.15.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "A reforged version of [MCDR-Mirror-Server](https://github.com/GamerNoTitle/MCDR-Mirror-Server), which is a plugin for MCDR-Reforged 2.15.0+.",
+          "zh_cn": "[MCDR-Mirror-Server](https://github.com/GamerNoTitle/MCDR-Mirror-Server)的重置版，适用于MCDR 2.15.0+的镜像服插件"
+        }
+      },
+      "size": 9987,
+      "hash_md5": "f75afda3591fbb10bbbe0f4db5b3d429",
+      "hash_sha256": "1630d8c42c355f1bdf8e9ca589ca2840ef60042fc71254097dd0903a5f5d18a7",
+      "ttl": 100
+    }
+  },
+  "repos_info": {
+    "etag": "\"24e91a6cb86cf8707a4bce8c5a210a792ee3230c9ca86ac674b0c7a3d58ba9f3\"",
+    "data": "H4sIAKiDjGoC/+2YUW/bNhCA/0rg1zaWrNiJY6DoumUoBjRI22XYkGUQKOlssaFIjaTsJoL/+44UZUve0tgpXwbkxYmOvI+n0/HIu3pAs8HsaDwZhdPRSXj++mjARQaxlQ4+x3eLi6v31Yfwj08DM0QKMPJLKqWQv4JcgvwMcyEXkJnxecVY3E76+fI3TgUPHptcSrok2kydE6YAJWLFQeJzPWBiQXkHYuZbk86n0dlkdDLt23ll7fwxqz5+WpipBMFExpVkZjTXulSzIGikarigOq+SSoFMBdfA9TAVRVAFLfvt8s3YUBbScZpFjGiXWFJHaxCIVEHH5FwXbNeKzvzOzLlgTKxQPT5giWCjtUVQvngGArXqQOgc0Gk4vLavT5U+zByrUds/6DMLUeg/CdlBGKeDBpl4WNeBhFI0tCpRqaSlxmmHmdbTNCgMQ8LpAzkchZqWYKw6TNNqGFVYYtQdptuo1IHdNen9urEgBbpE7z6Dt6NrcPq+tBv3quMaG/SoGC8prOJ2RlkljKb2i1ANMckKu1vtPl7vHfePZoYMNt/KEG6r8zCMbquzSTS9rcYwhcufLj4fRcPwFQpPp2OcMJmkt9UkTOe31elZmOHvSRaZyfPTZm/Iu06i+baj7Gd60kiDfMrlT5MCizG8O7j3gDOU2vy2GzDF/U0SIYkW0gO/h6t7j3Y5DaTwsIzF2AwqhA8vW4w9RJSqYL/9sgfW0tRmb/KqSFzy9LXCdncSpeiCA3iAblB1sMn2iSQ8zX3QW1Lt/mvigix8hAVpUm/CROIBh7MDi6oDlRN36OnYj60Gbkh9toS5J7YhbdlaeokMa7S0kdGS8TTWGCUe4C0pqFs2I3xRkYUP+AbV3joW5AGkH6sdq0mnXEuaVL6y6ZbWud8kfgzfwnbvTt7gZXtHQLWCai8usaD+rvFGN/H9rxWMwE+2bkm9o6A5ctyQtzPnP5dy9YynyDSkoH5VEp23fiqJBC9uMqCgTgjeF4fDYZ0Daa4rBUgv6aDh2HNTpjledL8fWbckfC6ItnXJ3BqdYaHCBMk82L1BbSLH2zWlFyklVuoeyBbTAxeUgdKCe/mIG1ZvCS40ndN0r9Jtj1V6uPqtojyF14Sx1xijmqYU4x/LY3deJcC8HFaGgy9FCnCVHAPi5ZBtSXXgCoAMSibuPSW4DsxmBAlEYw1JtMFGYRQdh6Pj6OR6NJqNzmdheGPrxzLrzzo9DqfH0fh6dDqLxrOTs5smIlX+yKTR2Ww8umkPA/cS+O/+VaV5TXsIqryj/8NWe7aPdsowFp9Z124sWPLvqIxzUUCJtxxU57j1bAH+YJ6m4/61JxUVN56MIpSviMYL+a60vTEZUz7e69y1rIiKm3yBci0rcLJSii+Q6h3pNl1ti2sjX9E7uqNv72b9WRlVaYW1iGnJbEeawnpjqs0pxhvObe69XTLOOoqIIwnriUQJ3L1Oj8hoClyB7TVisWxcQEqCTjqOhmG30/nOSo8+NPOP3Kgqs6+uK/iup/btDeZWVcHOWttG5uVFenr9nn25+X3ycHP9y5uB6aYQ06Ezp84d5qGtV6mKNRQl6/dQV5C461Jsijwxn2PN8XdFZc8v9ouYZq0Zwxzb+axdcWw3uLkwlgKNb/zEmC04RElTo/bnX/i0pIomlFF9328PNd2Nxuedb+EkbVy2EZnBnFRMx03daEgFURqkTQ8gC7qJlXrQ6zmZGCGUa9ITmYzSecSbdhPt23HG3HuvbeuiKONmi2txB7zt+WKIalGYDYA2aGqtr9c7LcSXrvVL1/qla/3/7lpz0CvMV72DoluRt/LR+h+7FoswNhsAAA=="
+  }
+}

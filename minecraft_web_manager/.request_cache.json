@@ -1,0 +1,335 @@
+{
+  "NOTICE": "Not public API, DO NOT use this file",
+  "release_pages": {
+    "1": {
+      "etag": "\"32e0d12da4ea40a2b47a4dbca1d74b332c0325534810e3e28f9503a884a43251\"",
+      "data": "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",
+      "empty": false
+    },
+    "2": {
+      "etag": "\"ef0b200f23451d4ed211633c01a706cfe75afc0b3512842a3194480bf1ab7599\"",
+      "data": "H4sIALSEg2oC/4uOBQApu0wNAgAAAA==",
+      "empty": true
+    }
+  },
+  "asset_data": {
+    "499716446": {
+      "meta": {
+        "schema_version": 4,
+        "id": "minecraft_web_manager",
+        "name": "Minecraft Web Manager",
+        "version": "0.1.1",
+        "link": null,
+        "authors": [
+          "ForestTrees"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.15.0"
+        },
+        "requirements": [
+          "fastapi>=0.115,<1.0",
+          "uvicorn[standard]>=0.30,<1.0",
+          "psutil>=6.0,<8.0"
+        ],
+        "description": {
+          "en_us": "A secure web dashboard and live console for an MCDReforged-managed Minecraft server."
+        }
+      },
+      "size": 56908,
+      "hash_md5": "9e4d1b683a5dae6755b33779795e1e27",
+      "hash_sha256": "82d9a33e19c062ab909474b454e996c042487fb6bb41f5d3d30c23ffbcf7844f",
+      "ttl": 100
+    },
+    "508144530": {
+      "meta": {
+        "schema_version": 4,
+        "id": "minecraft_web_manager",
+        "name": "Minecraft Web Manager",
+        "version": "1.0.0",
+        "link": null,
+        "authors": [
+          "ForestTrees"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.15.0"
+        },
+        "requirements": [
+          "fastapi>=0.115,<1.0",
+          "uvicorn[standard]>=0.30,<1.0",
+          "psutil>=6.0,<8.0"
+        ],
+        "description": {
+          "en_us": "A secure web dashboard and live console for an MCDReforged-managed Minecraft server."
+        }
+      },
+      "size": 64998,
+      "hash_md5": "fff84589894c3d54da9739ff39eaa718",
+      "hash_sha256": "ea74c738522a5c76650168534a872b7d0f688c98cd430d1b6d31ccb2d2beeb8e",
+      "ttl": 100
+    },
+    "508715126": {
+      "meta": {
+        "schema_version": 4,
+        "id": "minecraft_web_manager",
+        "name": "Minecraft Web Manager",
+        "version": "1.0.1",
+        "link": null,
+        "authors": [
+          "ForestTrees"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.15.0"
+        },
+        "requirements": [
+          "fastapi>=0.115,<1.0",
+          "uvicorn[standard]>=0.30,<1.0",
+          "psutil>=6.0,<8.0"
+        ],
+        "description": {
+          "en_us": "A secure web dashboard and live console for an MCDReforged-managed Minecraft server."
+        }
+      },
+      "size": 69989,
+      "hash_md5": "f9b250dc78689281e382dc83884e324c",
+      "hash_sha256": "922fec915d550a5a19cf0b651135101addd4169d29526fa01eafeb766cd7fa9e",
+      "ttl": 100
+    },
+    "515857953": {
+      "meta": {
+        "schema_version": 4,
+        "id": "minecraft_web_manager",
+        "name": "Minecraft Web Manager",
+        "version": "1.1.0",
+        "link": null,
+        "authors": [
+          "ForestTrees"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.15.0"
+        },
+        "requirements": [
+          "fastapi>=0.115,<1.0",
+          "uvicorn[standard]>=0.30,<1.0",
+          "python-multipart>=0.0.9,<1.0",
+          "psutil>=6.0,<8.0"
+        ],
+        "description": {
+          "en_us": "A secure web dashboard and live console for an MCDReforged-managed Minecraft server, with player, plugin, world and mod management."
+        }
+      },
+      "size": 88466,
+      "hash_md5": "0984f7e74087a1ea5bc10c75bb53b3ff",
+      "hash_sha256": "68cf5f22284f040ee281b9bc97a3c94eb96c30a0f6997a2a350dc7ca68891a66",
+      "ttl": 100
+    },
+    "519062999": {
+      "meta": {
+        "schema_version": 4,
+        "id": "minecraft_web_manager",
+        "name": "Minecraft Web Manager",
+        "version": "1.2.0",
+        "link": null,
+        "authors": [
+          "ForestTrees"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.15.0"
+        },
+        "requirements": [
+          "fastapi>=0.115,<1.0",
+          "uvicorn[standard]>=0.30,<1.0",
+          "python-multipart>=0.0.9,<1.0",
+          "psutil>=6.0,<8.0",
+          "ruamel-yaml>=0.17,<0.19"
+        ],
+        "description": {
+          "en_us": "A secure web dashboard and live console for an MCDReforged-managed Minecraft server, with player, plugin, world and mod management."
+        }
+      },
+      "size": 95455,
+      "hash_md5": "9f2696baa3fa48efc334cc868b965fa7",
+      "hash_sha256": "bf71d767276764deb16430e658c237b66840aa4c008b8970e4c790b4a8bd5963",
+      "ttl": 100
+    },
+    "521586947": {
+      "meta": {
+        "schema_version": 4,
+        "id": "minecraft_web_manager",
+        "name": "Minecraft Web Manager",
+        "version": "1.2.1",
+        "link": null,
+        "authors": [
+          "ForestTrees"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.15.0"
+        },
+        "requirements": [
+          "fastapi>=0.115,<1.0",
+          "uvicorn[standard]>=0.30,<1.0",
+          "python-multipart>=0.0.9,<1.0",
+          "psutil>=6.0,<8.0",
+          "ruamel-yaml>=0.17,<0.19"
+        ],
+        "description": {
+          "en_us": "A secure web dashboard and live console for an MCDReforged-managed Minecraft server, with player, plugin, world and mod management."
+        }
+      },
+      "size": 95960,
+      "hash_md5": "0ba559e2fa55cca37ad6bf863c3de160",
+      "hash_sha256": "be9b76e6645b0fde89d4b5de20bfe5d4335e095079fea9d649bfde9c8e655510",
+      "ttl": 100
+    },
+    "527410063": {
+      "meta": {
+        "schema_version": 4,
+        "id": "minecraft_web_manager",
+        "name": "Minecraft Web Manager",
+        "version": "1.2.2",
+        "link": null,
+        "authors": [
+          "ForestTrees"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.15.0"
+        },
+        "requirements": [
+          "fastapi>=0.115,<1.0",
+          "uvicorn[standard]>=0.30,<1.0",
+          "python-multipart>=0.0.9,<1.0",
+          "psutil>=6.0,<8.0",
+          "ruamel-yaml>=0.17,<0.19"
+        ],
+        "description": {
+          "en_us": "A secure web dashboard and live console for an MCDReforged-managed Minecraft server, with player, plugin, world and mod management."
+        }
+      },
+      "size": 96928,
+      "hash_md5": "e218b6a8ff14aeba70cbf1414d679a42",
+      "hash_sha256": "735177d020da1a2bce066f234f260da02fd4b67d86e11a45c16b756dd7c830ad",
+      "ttl": 100
+    },
+    "530187994": {
+      "meta": {
+        "schema_version": 4,
+        "id": "minecraft_web_manager",
+        "name": "Minecraft Web Manager",
+        "version": "1.2.3",
+        "link": null,
+        "authors": [
+          "ForestTrees"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.15.0"
+        },
+        "requirements": [
+          "fastapi>=0.115,<1.0",
+          "uvicorn[standard]>=0.30,<1.0",
+          "python-multipart>=0.0.9,<1.0",
+          "psutil>=6.0,<8.0",
+          "ruamel-yaml>=0.17,<0.19"
+        ],
+        "description": {
+          "en_us": "A secure web dashboard and live console for an MCDReforged-managed Minecraft server, with player, plugin, world and mod management."
+        }
+      },
+      "size": 104422,
+      "hash_md5": "43d6fb87ab4e2d010cd7f5c79b2a7f9f",
+      "hash_sha256": "f9d40c3ea2ccad7b528df3a2cd6144351f68d4600e4be5f260705e5ce9a541b4",
+      "ttl": 100
+    },
+    "539241221": {
+      "meta": {
+        "schema_version": 4,
+        "id": "minecraft_web_manager",
+        "name": "Minecraft Web Manager",
+        "version": "1.2.4",
+        "link": null,
+        "authors": [
+          "ForestTrees"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.15.0"
+        },
+        "requirements": [
+          "fastapi>=0.115,<1.0",
+          "uvicorn[standard]>=0.30,<1.0",
+          "python-multipart>=0.0.9,<1.0",
+          "psutil>=6.0,<8.0",
+          "ruamel-yaml>=0.17,<0.19"
+        ],
+        "description": {
+          "en_us": "A secure web dashboard and live console for an MCDReforged-managed Minecraft server, with player, plugin, world and mod management."
+        }
+      },
+      "size": 106525,
+      "hash_md5": "88eb155d1d869326674a5b4a3bf7d77b",
+      "hash_sha256": "7e8c4b4673f378ad1af06e32e0523aa1d884d1ac02bcc2754c2f465877ad537b",
+      "ttl": 100
+    },
+    "542112624": {
+      "meta": {
+        "schema_version": 4,
+        "id": "minecraft_web_manager",
+        "name": "Minecraft Web Manager",
+        "version": "1.2.5",
+        "link": null,
+        "authors": [
+          "ForestTrees"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.15.0"
+        },
+        "requirements": [
+          "fastapi>=0.115,<1.0",
+          "uvicorn[standard]>=0.30,<1.0",
+          "python-multipart>=0.0.9,<1.0",
+          "psutil>=6.0,<8.0",
+          "ruamel-yaml>=0.17,<0.19"
+        ],
+        "description": {
+          "en_us": "A secure web dashboard and live console for an MCDReforged-managed Minecraft server, with player, plugin, world and mod management.",
+          "zh_cn": "为 MCDReforged 管理的 Minecraft 服务器提供安全的网页仪表盘与实时控制台，支持玩家、插件、世界与 Mod 管理。"
+        }
+      },
+      "size": 106815,
+      "hash_md5": "672be8cd6bd6016369cd1673aed6b8ff",
+      "hash_sha256": "18a0db6e7011d33882f32e28c257e4e0397d38f09f6cad033c299704c86b703b",
+      "ttl": 100
+    },
+    "544035040": {
+      "meta": {
+        "schema_version": 4,
+        "id": "minecraft_web_manager",
+        "name": "Minecraft Web Manager",
+        "version": "1.2.6",
+        "link": null,
+        "authors": [
+          "ForestTrees"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.15.0"
+        },
+        "requirements": [
+          "fastapi>=0.115,<1.0",
+          "uvicorn[standard]>=0.30,<1.0",
+          "python-multipart>=0.0.9,<1.0",
+          "psutil>=6.0,<8.0",
+          "ruamel-yaml>=0.17,<0.19"
+        ],
+        "description": {
+          "en_us": "A secure web dashboard and live console for an MCDReforged-managed Minecraft server, with player, plugin, world and mod management.",
+          "zh_cn": "为 MCDReforged 管理的 Minecraft 服务器提供安全的网页仪表盘与实时控制台，支持玩家、插件、世界与 Mod 管理。"
+        }
+      },
+      "size": 107452,
+      "hash_md5": "4f6d415881eacf716b9caf7bbcd15f66",
+      "hash_sha256": "9bec18b3b64e7c84d16f71a3b32d4f374da32040c8fa0aae7c6a99dee791de3a",
+      "ttl": 100
+    }
+  },
+  "repos_info": {
+    "etag": "\"fca360e99804b07f39ecb61b676e0c6456c23c97246c5f2a761bd3a4a0ea32c9\"",
+    "data": "H4sIAFSvmmoC/62YbW/bNhCA/4rgr0ssx3GcxsDQFcs2FGjWl3nrkGEQKOksMaFIjaTsOYL/+46kJEvustoZvyTWkffweDweeaxHNB0tgovLi9nkanJ9Mz0LRlykEFnx6FP0mN2+X7J3v8zfjEwTKcDI7yiHRJKV/gzxHeEkA2maVxVjUdvnRyFB6aUEUOEz/UtJ10Sb3ivCFKBEbDg2LYJ6xERG+QHH6FjDZvObV1fT6fXQ2rvbj/Pffv+ZJQ8fp++X2cXdw9tLo0JwECKjSjLTK9e6VIswdFI1zqjOq7hSIBPBNXA9TkQRVmE7xuv1tzNDyWTDcYMZ0SGxpA3NIRCpwgPzc12wQ0t6Oge9V4IxsUFMdOJQYae5x1CevRCDmnUodA7oROyys+6gSp9ultWq7T/0owUp9KmE9GRUo4eGmZjZ1aGEUjhiFatE0lJTwU83caBtcEJmhNMn8jIcaluKse50batl1GGNkXm6vlOrQ7vTku3OWZIAXaPHX8g80DdIvS3tnv9VuY1tlKI1hU3UtpRVzGhiV4dqiEha2N1t9/3upH3xXDJJoVs2A3kTKEgqCcEG4iAlKo8FkWlAeBowtD7Aza4Eg2AlJAqDu+9vPwH+ziA9Lyw0DbqBECXXIMduL8nHXsL6b+fZ5TvGeEP92kocBQstySAfYeuHaEC1+dvu2ASTAomFJFpIP0MMiPXg046ogRR+RrIkm4iF8ORxS7JHk1IVHLerjiNb4H4T86qIm+zrcZD9LiZK0YxjPy/cjlaH3aERS8KT3NMALaxufrlIIZmnQCEub8dMxH6IqBBaWh2qnDSHqI68WWz4BjbES1j5wxvYHq+lr1ixpksbKy0cj3eNceOH38LCusUzwrMK2/zwO1p7ocnIE0hvtjc4l3u5ljSuPKbePbB3eYq9mb/nHd7NfPLduW8dVBRU+/KNZQ03lM8BTNx/MYgReMvuLWxweriDqmnyeVL962hNWeUvXA0srL8pic5bh5VEgi9/GVZYxwQvpuPxuM6BuGtPAdJXvnAoe+bKJMfrqBdq3cLwDlgQbUuilTU9xRqJCZL6sb6jdbHk87oziJ2yYswP3JIG7IIy1BDc15p2uMEoXGi6oslR1eNxAw2I9WtFeQJnhLEzDFxNE4r7Agv25pSLgfk64gwKp0YKaMpIBsTXAd3C6rCpMVIomdj6y4M9nk0ZEojGEpZoQ55OpvPzyfX59Hp5MV9MrxbT2b0tY8v0i14355PZcvJqcXm1mEzuXYyq/LlOs8XEoczJ0cwDf55U3JrJ2qNT5T3Ed3vA4khAwjA6X15kd3as+f+r1HNRQIkfSOC4K+2bwJP5mk8u58MLVCIqbvx6geIN0XjdPxC2Ny9jzYetzt0lICcqctkE5VpW0MhKKR4g0QfSfT7b1/VGvqGP9EBU2kveUJZSlVRY7Jjnon2Lq+j7phZUStE+QzYTbzJ22lNEHInZQCRK4M18OuLETJ4mwBXY91Ksz40PCrdG3UPt22XwrullPFumf7ePpW+XX3/CbAZQYYvtP7Ym8+VP7OH+89XT/fKHp5F5xSHmtdAcP4+YgfZOpirSUJRs+Na7gbi5TEWmUhSrFRYrf1VUDuZuvW7elU0bRlZv7friyO5oc6ksBVptfYHW2DJFlDQxan/8iV9rqmhMGdXb4bOUezdxK9Xzd+PpNvaaDimsSMV05ApP63dCbeSVIAvaBUM9Gjx0nbl+mgxEJn/0PvE27uJ5385YM+mdfQspyshtZS0egbeP0Rz0BucwCLn+Zb4LnN0/FXWBZPUXAAA="
+  }
+}

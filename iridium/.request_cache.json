@@ -1,0 +1,45 @@
+{
+  "NOTICE": "Not public API, DO NOT use this file",
+  "release_pages": {
+    "1": {
+      "etag": "\"e2cdb90d04a9ec2c9512cdd91a1510978dc0c25c405f4bdb601e2e84a4acb442\"",
+      "data": "H4sIAHyXvWoC/+1XXW/bNhT9K4KfG+uLkigDQxEsRjN0WZY2Bdo0g0CJlEREEjWKspEY+e+7pGTV9tpidvu2vFjG5TnnXl2Sh9TnzayX1WxhzUql2m5h26Tl84Krsk/nmahtyVrR2ZdP799+uuJSCmn/JjnlvR6pGOlYZ/s4iiMPITx7Zc1I1zHVJT9P1B4UtXbfVoLQQ+0h2v2g/uZ1Q2r2qiIpq551slLV1WGqnRTfFVeksFdeOI/nLtJanILKlFF3qVelkBDczCpR8EYn2VGcOF6MsIc8HECgEZQlJjr7kDwUF9fLu7ftxxvT9BVRRP6r6Sa6bUzfMZmJRrFGmRfo7Un89eoXU2YhR6Ehi2n5d+dRa+71+bjGaXQuqkqsQSY5MpU9Mb/I8KY4UQaYG1uokkEXAWJWQME7dXxZhrUxD+ijEeqgp5LRo6VGHhS2bqCmjVnXg2KfdpnkreKiOb7EPbaWE7IgDX8ip8kB26iYXXc027A0na1gaR7PH2gbu5V8RbLH56GSjPEVdPxEzQO+llSPLTNbD8BmY8AzWXG2TrYjbZ9WPDOzwxVLCK3Nvs5J1bHn/f37bpk8rC+uP3z6Uzxk6ONl4hYmBykS7UIasmsfsAwKphKoteaKd6Uerwmoa9URP3qQtUOjkuRqW4F2lLruFUkrthNrJRtdayeYSUYUvD3R7JnneOGZE5+5/q0bLVx/4bp3gxvTr6HQrRsu0IQyXenKb6t5zt2XcwMQn3/CiTSI2UHoR3Hsuc7kp1PkYD7Od+ejrPv3f3+lt/M6o2buzSExOaQ5ftiLmb+Y+YuZ/2/MfNx8E560LeBNz22RKabOOgUuWo8rRhnQaBV0kH3SMd8LHaS9mhesMwbZlcQLwgXNcZATHGchIaEfu2FK8shFjkdyghxEsROxCAcOc6Pcx15GUIbc3NwwfRhOzQEAS83cmDPRN1ocf9vcD2z7v5l7KsVat25KdOJ9ecufLs32nuU+/zUcgimpqpO/LEb+3r38ibc/pDny9zRTQR+12H0fu4je91Eesvseu4zc94FHsI5nEA9YDpE8d9NaKJpoe1AJJY8WABgFGE4JAlge+PAbe/EAhv9+mlpX17cXgAxhGQAex3gYvbmxdEZNjFEOeUOfBBMRRZAXMYZ0nDqAjH2oIQxwpKUQ3iIR8wCJvdy13i3PL66Wlo45zPr18vyPN8vfr9/AnPwD75G8tTsOAAA=",
+      "empty": false
+    },
+    "2": {
+      "etag": "\"ef0b200f23451d4ed211633c01a706cfe75afc0b3512842a3194480bf1ab7599\"",
+      "data": "H4sIAKuwt2oC/4uOBQApu0wNAgAAAA==",
+      "empty": true
+    }
+  },
+  "asset_data": {
+    "563799210": {
+      "meta": {
+        "schema_version": 4,
+        "id": "iridium",
+        "name": "Iridium",
+        "version": "26.9.14",
+        "link": null,
+        "authors": [
+          "云镜之端/SKYMirror"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.6.0"
+        },
+        "requirements": [],
+        "description": {
+          "zh_cn": "物品展示 / 戴头 / 获取头颅 / 游戏内计算器 / 进服 MOTD",
+          "en_us": "Item share / hat / player head / calculator / join MOTD"
+        }
+      },
+      "size": 32604,
+      "hash_md5": "e78b465b8ee45c8e5b48f2221f9b3d24",
+      "hash_sha256": "df85fa89c6aa63916baf71402afa404d807e7850e17f382ca4c41f79724304db",
+      "ttl": 100
+    }
+  },
+  "repos_info": {
+    "etag": "\"07ad0355b7e8e21a18d6960467475cb1700684fa729852921d1475417533fd36\"",
+    "data": "H4sIAKGwt2oC/6WYbW/bNhCA/4rhr0ssv8c2UHTAMmRDmzXtEmz1PAiURFmsKVEjKXuO4P++41GSJa9Ja+tLHJ14j45H3vGOeZcF3UVnMJreTObz4Xh+1ekmIqAuiruf3M369sPT5wex+dg1r0hMjfxXyQKWxUYUZpy7pfyX59/ffb5nUgrp1Makkm2JNiNCwhUFidglVMJz3uVizZITXaODBgzn49lwPJxNmmY9oVk/L9+lf6JZBOhEupnk5m2kdaoWjmOlqrdmOsq8TFHpi0TTRPd8ETuZU8Hfbt+MDWYtC5D9ihGdIlNW4CwDmMo5MTzSMT81paZzMjoUnIsdYNwzP+VUmkcMS9YXYkAzd4SOKHgRhhzQHUzp881CrRx/wI8IUuBTSYOzUYUeGGZ2yyF3JE2FJWae8iVLNRPJ+SY2tA1OyDVJ2DO5DAfaSDHWna+NWkadbmFrnq9v1XIHY8zfH6wlPmVb8PiFzBN9g9T7FCP8CQZjYMCvu2V055Zv0szjzMfVYZq6JIgxrjHiD2fFRT11BLRaKqN4/9PtJxqCx2nQWWXTUTBcZWMaTldZGA7IKrsZTuerbDL2B/DXn0xAMh+RjmMGD0djEM5HY3ycjbwbeBwFUytcZfPZbGJH0tHMjO+H8GowA8jMIwC88eZGZTqdWUIYeDDsph907j883towlJtalnvd77jyL83bkL61cC8CHNQ2mA3dX04xyrn5WwayD7mCeEISLeTl2AYlbzziVzQl8eV01MY8LEQLD6I2nkNKZfT7AullGkJUFatJFntFkm0JPgYoUYqtE0ovZ1WE3KnOAE+SxI9aQEtAXvxnV5isWywwsenW48K7nAKDHCTkjopIcd5pt5VlhmkATaSkYTukARyRWrZZYzRR4hqXQDhlNaz35cwS4OQlkpNknZF1C2ZFKOuHNXmmspWNBcLmsURL5mUt09gRUqtJvFZmHhmnZU5bpj1CcfJxzHSbeaN+c5O3hZp9+T+wEbTKjiWgkXFtQi9etc3oX/1C0Wa021oG4OQ/pERHpTNSImkbXxh9J/cI1GO9Xi+PKLHHekxlm1i16ngGST+CuvFiUl4CoH6JicaKP0QTA2gBuCDB5VZWhGoPtD3OG2ueQht8ORC1G7yYcaq0SNqsS4VokBOhWcj872p2XoY3KPlbxRKfXhHOr2CTaeYz2LfQUxangUd5m6PAqMMUSEyL7oZT0ubAKgG5U9S1AU252LfLNTUGhqukREMHRbShDfvD6XV/fj0YPg5mi8lwMRgvsYtKg6+NGj8OpovxaDHoL+3eUtHLg/rTZZmFC9vh32/2VmZSeMSoqKb241Fp8YqSz2FXndfLVd/bJuc3gZGIaQrVAGglECnYYj6bp5tZszzwRZYYL/VBvCMaCs8TYVlXmO8/7HVkj8SIKNfGNMi1zGghS6X4Qn19Ij1mkmOnZ+Q7tmEn+ljBNEcFTPkZVNrm6uH4xrZ7dUtj9ELhq2LWRXoMaoqAIx5viERKk2I6zbkznyaK4q0bNHW45Cm/HvX69au9u9+eOnc0oZLwzgO29J33VrGzLYaqNPi3uCO7e3hfAl4PnOLjyql/8nijd3/rTx/v+JflH5Pn5ePmTdfcGBBzM2XOgg2kkqNnmXI1jVPevFHcUa+oQlzTxogwhMr7n4zJhm9wVcyNpXkH2bG2tHWxi+Frqq5UgOXoK7AG62+RMt+o/fU3PG2ZYh7jTO+bVyC2Abd+r63HydYsHgMakoxr13ZIBhQThhszpTJm1WbJu41LlSs7TpOGyCSL2iOUqHa7H99zXkz6gM12nLo2nrXY0KS8+Eyo3sEcGhuoXuFW8sN/ndmSwEMWAAA="
+  }
+}

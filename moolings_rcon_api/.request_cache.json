@@ -1,0 +1,287 @@
+{
+  "NOTICE": "Not public API, DO NOT use this file",
+  "release_pages": {
+    "1": {
+      "etag": "\"2f9e14eb40508938cbaaccdf5b995d8a0051059905ad3614fe5442717ed55350\"",
+      "data": "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",
+      "empty": false
+    },
+    "2": {
+      "etag": "\"ef0b200f23451d4ed211633c01a706cfe75afc0b3512842a3194480bf1ab7599\"",
+      "data": "H4sIALSEg2oC/4uOBQApu0wNAgAAAA==",
+      "empty": true
+    }
+  },
+  "asset_data": {
+    "347190930": {
+      "meta": {
+        "schema_version": 4,
+        "id": "moolings_rcon_api",
+        "name": "MoolingsRconAPI",
+        "version": "0.0.2",
+        "link": "https://github.com/Mooling0602/MoolingsRconAPI-MCDR",
+        "authors": [
+          "Mooling0602"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.14.1",
+          "python": ">=3.11"
+        },
+        "requirements": [
+          "mcdreforged>=2.14.1",
+          "asyncrcon",
+          "returns"
+        ],
+        "description": {
+          "en_us": "Mooling's Rcon API for MCDReforged.",
+          "zh_cn": "木泠编写的MCDR Rcon接口。"
+        }
+      },
+      "size": 3282,
+      "hash_md5": "2848b37010e01b5e471081dafb45ade2",
+      "hash_sha256": "634fe9e0618988c7c527b11be7b3021b4f32f385a67943759c546302a931a795",
+      "ttl": 100
+    },
+    "347177526": {
+      "meta": {
+        "schema_version": 4,
+        "id": "moolings_rcon_api",
+        "name": "MoolingsRconAPI",
+        "version": "0.0.1",
+        "link": "https://github.com/Mooling0602/MoolingsRconAPI-MCDR",
+        "authors": [
+          "Mooling0602"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.14.1",
+          "python": ">=3.11"
+        },
+        "requirements": [
+          "mcdreforged>=2.14.1",
+          "asyncrcon",
+          "returns"
+        ],
+        "description": {
+          "en_us": "Mooling's Rcon API for MCDReforged.",
+          "zh_cn": "木泠编写的MCDR Rcon接口。"
+        }
+      },
+      "size": 3262,
+      "hash_md5": "9598c340c3884e68de196108ee9c7adf",
+      "hash_sha256": "24d57bc89369cbf76c68ac5a31a0116233896c124bcdeba5eeb6f559ddbdb604",
+      "ttl": 100
+    },
+    "347507459": {
+      "meta": {
+        "schema_version": 4,
+        "id": "moolings_rcon_api",
+        "name": "MoolingsRconAPI",
+        "version": "0.0.3",
+        "link": "https://github.com/Mooling0602/MoolingsRconAPI-MCDR",
+        "authors": [
+          "Mooling0602"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.14.1",
+          "python": ">=3.11"
+        },
+        "requirements": [
+          "mcdreforged>=2.14.1",
+          "asyncrcon",
+          "returns"
+        ],
+        "description": {
+          "en_us": "Mooling's Rcon API for MCDReforged.",
+          "zh_cn": "木泠编写的MCDR Rcon接口。"
+        }
+      },
+      "size": 5458,
+      "hash_md5": "c9083136a240631ad82ee0fcf627e0d5",
+      "hash_sha256": "84a61034a9aa2663d60660246e1df6305e36cc61bbb1c802718875aaff129dcf",
+      "ttl": 100
+    },
+    "347581171": {
+      "meta": {
+        "schema_version": 4,
+        "id": "moolings_rcon_api",
+        "name": "MoolingsRconAPI",
+        "version": "0.0.4",
+        "link": "https://github.com/Mooling0602/MoolingsRconAPI-MCDR",
+        "authors": [
+          "Mooling0602"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.14.1",
+          "python": ">=3.11"
+        },
+        "requirements": [
+          "mcdreforged>=2.14.1",
+          "asyncrcon",
+          "returns"
+        ],
+        "description": {
+          "en_us": "Mooling's Rcon API for MCDReforged.",
+          "zh_cn": "木泠编写的MCDR Rcon接口。"
+        }
+      },
+      "size": 5656,
+      "hash_md5": "5c2c54242b3b6e983f9b3296ee3cc549",
+      "hash_sha256": "8de00ad3c08a5e43f7475102cf9f4d6283de0cc124c5bcc97f3137e24f9910da",
+      "ttl": 100
+    },
+    "349094518": {
+      "meta": {
+        "schema_version": 4,
+        "id": "moolings_rcon_api",
+        "name": "MoolingsRconAPI",
+        "version": "0.1.0",
+        "link": "https://github.com/Mooling0602/MoolingsRconAPI-MCDR",
+        "authors": [
+          "Mooling0602"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.14.1",
+          "python": ">=3.11"
+        },
+        "requirements": [
+          "mcdreforged>=2.14.1",
+          "asyncrcon",
+          "returns",
+          "javaproperties"
+        ],
+        "description": {
+          "en_us": "Mooling's Rcon API for MCDReforged.",
+          "zh_cn": "木泠编写的MCDR Rcon接口。"
+        }
+      },
+      "size": 8037,
+      "hash_md5": "5eeaed0880fab1e9fd88d83d6b42ed7c",
+      "hash_sha256": "cf074b023408a97768572832df60b18c13b84b2cdd0d2191cc3e45f8b40aec4e",
+      "ttl": 100
+    },
+    "386097874": {
+      "meta": {
+        "schema_version": 4,
+        "id": "moolings_rcon_api",
+        "name": "MoolingsRconAPI",
+        "version": "0.1.1",
+        "link": "https://github.com/Mooling0602/MoolingsRconAPI-MCDR",
+        "authors": [
+          "Mooling0602"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.14.1",
+          "python": ">=3.11"
+        },
+        "requirements": [
+          "mcdreforged>=2.14.1",
+          "asyncrcon",
+          "returns",
+          "javaproperties"
+        ],
+        "description": {
+          "en_us": "Mooling's Rcon API for MCDReforged.",
+          "zh_cn": "木泠编写的MCDR Rcon接口。"
+        }
+      },
+      "size": 8488,
+      "hash_md5": "f5d2a53f336be312905031b5f1c3c6e2",
+      "hash_sha256": "fec346530acaaded4b53ec330ad793062f691d83180c0f7cb173126c0871e6ba",
+      "ttl": 100
+    },
+    "388545520": {
+      "meta": {
+        "schema_version": 4,
+        "id": "moolings_rcon_api",
+        "name": "MoolingsRconAPI",
+        "version": "0.1.2",
+        "link": "https://github.com/Mooling0602/MoolingsRconAPI-MCDR",
+        "authors": [
+          "Mooling0602"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.14.1",
+          "python": ">=3.11"
+        },
+        "requirements": [
+          "mcdreforged>=2.14.1",
+          "asyncrcon",
+          "returns",
+          "javaproperties"
+        ],
+        "description": {
+          "en_us": "Mooling's Rcon API for MCDReforged.",
+          "zh_cn": "木泠编写的MCDR Rcon接口。"
+        }
+      },
+      "size": 8467,
+      "hash_md5": "d3d535bbd1e2c8bcfd2e2bcec686df82",
+      "hash_sha256": "57e3d609d23a3ad3b8e6c47db2f65130dd56f92a72f080aed67545902080aa36",
+      "ttl": 100
+    },
+    "388596765": {
+      "meta": {
+        "schema_version": 4,
+        "id": "moolings_rcon_api",
+        "name": "MoolingsRconAPI",
+        "version": "0.1.3",
+        "link": "https://github.com/Mooling0602/MoolingsRconAPI-MCDR",
+        "authors": [
+          "Mooling0602"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.14.1",
+          "python": ">=3.11"
+        },
+        "requirements": [
+          "mcdreforged>=2.14.1",
+          "asyncrcon",
+          "returns",
+          "javaproperties"
+        ],
+        "description": {
+          "en_us": "Mooling's Rcon API for MCDReforged.",
+          "zh_cn": "木泠编写的MCDR Rcon接口。"
+        }
+      },
+      "size": 8516,
+      "hash_md5": "4ab4be51e7ecbe87adde53705f235d88",
+      "hash_sha256": "0c15b98d2ebf06cefe626d97af2d60008ca341addf70e49682548afe1ce6f0f3",
+      "ttl": 100
+    },
+    "468884982": {
+      "meta": {
+        "schema_version": 4,
+        "id": "moolings_rcon_api",
+        "name": "MoolingsRconAPI",
+        "version": "0.1.4",
+        "link": "https://github.com/Mooling0602/MoolingsRconAPI-MCDR",
+        "authors": [
+          "Mooling0602"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.14.1",
+          "python": ">=3.11"
+        },
+        "requirements": [
+          "mcdreforged>=2.14.1",
+          "asyncrcon",
+          "returns",
+          "javaproperties"
+        ],
+        "description": {
+          "en_us": "Mooling's Rcon API for MCDReforged.",
+          "zh_cn": "木泠编写的MCDR Rcon接口。"
+        }
+      },
+      "size": 8743,
+      "hash_md5": "0bbc1339fcf8e7914aa150116595738b",
+      "hash_sha256": "9204aff9c29a0a361baf0f7f3f7381a08085d359fa6f2f1665f6203487f8649b",
+      "ttl": 100
+    }
+  },
+  "repos_info": {
+    "etag": "\"3dbfca816e3c8b285c59594ff3ffa9acbfb4a695b4414b9c1d8e95a206d02326\"",
+    "data": "H4sIAF4LsmoC/62YX2/bNhDAv4rhlz0ssWwncRoDRdclQDag7YIgwYAMg0BJtMSYIjmSsusI/u47kvrfNbNTviQWyfvdkTweeVeOSTJejmaz87Or+dXl+fxkNGY8waFtHt+H6/Tmj/vry8vndGy6UI5N+2fOKWGpuo85+3j3++nn65t7078qKA0Hg6aL6Tz4noCQZIO0Gb5CVGFo4VuGJXyXY8pTwgYgI+MsPr+8WpzPF+/6Bj9ag6+//PZr9NGMRUBHMiwkNb2Z1kItg8C1qklKdFZEhcISzNKY6UnM86AIGviHzftzg0llBXJaTNMQKUiFcwxgqmBgeKZzOjSlIzMYveKU8i1gwiNVBY1ki4GuN2Lgqwy4zjCsIgzZ2+UgSh9vlpUq7T9YRwtSsKYSJ0ejKjkwzHjLvgwkFtwRi0jFkghNODvexJ60wXGZIkZe0NtwIG0pxrrjpa2UEccbcM3j5Z1YGdgzFu/2zpIYkw2s+BuZA3mD1Dthj/sjDLYHA/6HG4K3Yd0jioiS2O4O0ThESW7PtT3x+6POxXfjSIKbfetEjJ/UyAwcwcjRisuRGY3hR4qTiTsbct0JPa8vht2Og4wx2P9b2sNogUUZ5hrvPCENqTR/60MYwzlHEZdIc+lJRw9Z9j6tSo1R7kmVRdnoyrmvVbcoe9UoVeDDzsqBaEtUzdlkRR5VQdWnlvZ0IqVIyjD2BG5wZdDcBpFELM58aahpZfXL+QtKfbkLciE5ojzyhASJwOLKQGWouiB16M9mo8DQ+nyJVx75htbytfTmMdZ4aT2mpsPtrcF7PCmoaUFZ8yliaYFSXwoaXP1iSdELlv6sr3guFDMtSVT4jMQtsfM+ivxNoAUO319eFbi73a5RnhPtbXksrH+yvGow/v+NFtPgL9rXtN514q6uqsvr3fWf6qoEyqPXGlpQ/iyQzuo1E0hib0tmYEEZIXiDTiaTMsPIPYdyLL2FDsey97CMM3g4+8GWNQ2ehznSNv9ZWeMTSIgoR4kn+xtc41Fen0E9DxIFpZ7oFtWD54RipTnztrENr6eGcU1WJD4oXTxQUw9ZflCExfgEUXoC/qtJTOB8gEx170WYerv0DAsmh3JcZY4UI2+Xdk0rgyoJSbCgfOcxKHaANnpIjDTkrUgb9Hw6X5xOZ6fzdw/Ti+X8bHlx/mRzV5F8M+rqdD5/mJ4tz2bL2eLJearKXhk0f6ovkmoi8PO4jNZM116mKuswfmkJy0MJMQUf/YHcurFkw34wQ894jgW8orqIPE5knY8bjqBFSliQV4jQlOVC2H5XOngxsotZ/xEW84KZfZhC8xZpyBwGjfXrzei92+nMPSIypEIXg6BdywJXbULyZxzrQWsbBttigWnfkjUZyNt3Yn9UQlRcQN5kSkptjysSdC3NiZS8rlUyCGHttZF0BAGHItpr4gKzajr9uZMYM4VtNRUSfutHgp6eTabdYu7tl8fRLWZYIjq6s6Wa0ScnONpUQ5VIvla1z9u7TzXg9XNaKVdBV2Vbqf18Ey8ebunz058XL08P6/djUwlCpuJobrU17H+7skSFGueC9ivFWxxVT7XQJKV8tYKc6J+CyN7a2F0xZWnTBzG7s7Xd5tAGCPNoFeB8sV0rsMYmQ1yQ2Ij99Td8bYgiEaFE7/qlLVepceve2Y+Ba1afCV6hgurQpbgGlCNiHVNgmZPGWcpxr1h24sZp1Gsy4ajzCc995+5tP6XVpPe29pKL0MUFzdeY1QVthvUW5tBzoG620LTv/wXq9RFXNRgAAA=="
+  }
+}
